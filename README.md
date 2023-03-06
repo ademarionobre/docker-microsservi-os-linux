@@ -1,6 +1,6 @@
-Bootcampo Linux
-Docker: Utilização prática no cenário de Microserviços
+Bootcamp Linux do zero
+Projeto com Docker: Utilização prática no cenário de Microserviços
 
-Implementação realizada em máquina local, máquinas virtuais com HyperV e uso de instancias de aws.
+Implementação realizada através de máquina local, máquinas virtuais com HyperV e uso de instancias de AWS.
 Utilizado: docker-compose
 imagens: nginx | mysql | php
